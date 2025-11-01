@@ -1,1 +1,1 @@
-# Maximum-Element
+# Maximum-Element This code implements a stack that supports retrieving the current maximum in constant time using an auxiliary `maxStack` in the `getMax` function. The `Main` method reads a list of operations, executes them on the stack, and outputs the results of all "print maximum" operations.
